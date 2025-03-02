@@ -2,6 +2,8 @@
 [![](https://raw.githubusercontent.com/miyakonn/miyakonn/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/miyakonn/miyakonn/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![My Skills](https://skillicons.dev/icons?i=figma,obsidian,raspberrypi,unity)](https://skillicons.dev)
+
 ![](https://komarev.com/ghpvc/?username=miyakonn&color=green)
 
 <!--
